@@ -26,6 +26,6 @@ Only use graph and hash table concepts from the course for this assignment.
 
 ## Start the Assignment
 
-[**Fork the Assignment**](https://classroom.github.com/a/sFWdSc_h)
+[**Fork the Assignment**](https://classroom.github.com/a/A1a__VxH)
 
 ---
